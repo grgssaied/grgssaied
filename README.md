@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">مرحبًا 👋، اسمي Grgs</h1>
-<h3 align="center">🌱 أتعلم حاليًا جافا سكريبت وأبني مشاريع ويب بسيطة (أتعلم حاليًا جافا سكريبت وأبني مشاريع ويب بسيطة)</h3>
+
 
 <p align="left"> <a href="https://twitter.com/grgssaied" target="blank"><img src="https://img.shields.io/twitter/follow/grgssaied?logo=twitter&style=for-the-badge" alt="grgssaied" /></a> </p>
 
