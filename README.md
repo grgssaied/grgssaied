@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## Hi there 👋  
+
 أنا 👨🏻‍💻 Eng. Grgs — طالب نظم معلومات ومهتم بتطوير الويب
 
 ### 💡 About Me
