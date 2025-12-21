@@ -16,44 +16,42 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">👋 Hi, I'm Gerges Saied</h1>
+<h1 align="center">👋 جرجس سعيد</h1>
+
 <h3 align="center">
-Information Systems Student | Interested in Programming & Web Design
+طالب نظم معلومات | مهتم بالبرمجة وتصميم المواقع وتطوير الويب
 </h3>
 
 <p align="center">
-🌱 Learning today to build professional websites tomorrow
+أسعى لبناء مواقع ويب حديثة باحترافية وبأسلوب أكاديمي منظم
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- Information Systems student
-- Interested in programming and modern web design
-- Studying SQL, HTML, CSS, JavaScript, and C++
-- Focused on building clean and professional projects
+## 🛠️ المهارات والتقنيات
 
----
-
-## 🛠️ Skills & Technologies
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="120">
+
+<td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
   <b>HTML</b>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /><br/>
-  <b>CSS</b>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /><br/>
-  <b>JavaScript</b>
-</td>
-<td align="center" width="120">
+
+<td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" /><br/>
   <b>SQL</b>
 </td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/dev
+
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" /><br/>
+  <b>C++</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+✨ <i>طالب نظم معلومات بطموح مهندس برمجيات وتطوير ويب</
