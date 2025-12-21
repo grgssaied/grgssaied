@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">طالب نظم معلومات | مودرن أكاديمي</h2>
+<h2 align="center">طالب نظم معلومات الاعمال 
+  مودرن أكاديمي</h2>
 
 <p align="center">
 مهتم بالبرمجة وتصميم الويب
