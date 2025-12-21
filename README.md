@@ -15,12 +15,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h1 align="center">👋 Hi, I'm Gerges Saied</h1>
+<h3 align="center">
+Information Systems Student | Interested in Programming & Web Design
+</h3>
+
+<p align="center">
+🌱 Learning today to build professional websites tomorrow
+</p>
+
+---
+
+## 👨‍💻 About Me
+- Information Systems student
+- Interested in programming and modern web design
+- Studying SQL, HTML, CSS, JavaScript, and C++
+- Focused on building clean and professional projects
+
+---
+
 ## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
+  <b>HTML</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /><br/>
+  <b>CSS</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /><br/>
+  <b>JavaScript</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" /><br/>
+  <b>SQL</b>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/dev
