@@ -16,42 +16,25 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">👋 جرجس سعيد</h1>
 
-<h3 align="center">
-طالب نظم معلومات | مهتم بالبرمجة وتصميم المواقع وتطوير الويب
-</h3>
+<h2 align="center">طالب نظم معلومات | مودرن أكاديمي</h2>
 
 <p align="center">
-أسعى لبناء مواقع ويب حديثة باحترافية وبأسلوب أكاديمي منظم
+مهتم بالبرمجة وتصميم الويب
 </p>
 
 ---
 
-## 🛠️ المهارات والتقنيات
-
-<table align="center">
-<tr>
-
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br/>
-  <b>HTML</b>
-</td>
-
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" /><br/>
-  <b>SQL</b>
-</td>
-
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" /><br/>
-  <b>C++</b>
-</td>
-
-</tr>
-</table>
-
----
+## الأدوات والتقنيات
 
 <p align="center">
-✨ <i>طالب نظم معلومات بطموح مهندس برمجيات وتطوير ويب</
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL" />
+</p>
