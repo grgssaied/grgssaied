@@ -15,45 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# 👋 Hi, I'm Gerges Saied
-
-🎓 Information Systems Student  
-💻 Interested in Programming & Web Design  
-🚀 Aspiring Software Engineer  
-
----
-
-## 👨‍💻 About Me
-- Information Systems student passionate about technology
-- Interested in web development and databases
-- Always learning and improving my coding skills
-
----
-
 ## 🛠️ Skills & Technologies
-- HTML
-- CSS
-- SQL
-- C++
-- Basics of Web Design
 
----
-
-## 📚 Currently Learning
-- Advanced SQL
-- Front-End Web Development
-- Problem Solving with C++
-
----
-
-## 🎯 Goals
-- Build professional websites
-- Create real-world projects
-- Improve my programming fundamentals
-- Become a skilled Software Engineer
-
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/USERNAME
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+</p>
