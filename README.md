@@ -25,4 +25,4 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/ضع-رابط-حسابك
+- 💼 LinkedIn: https://www.linkedin.com/in/grgs-saied-30193327b
