@@ -6,6 +6,11 @@
 
 🌱 Currently learning Front-End Development
 
+🎓 Education & Training
+
+- Modern Academy – Business Information Systems (BIS)
+- Instant Software Solutions – Full-Stack Development Diploma | Front-End Specialization
+
 🛠️ Technologies I'm Learning
 
 <p>
