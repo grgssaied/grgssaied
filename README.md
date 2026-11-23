@@ -4,9 +4,9 @@
 
 💻 Aspiring Front-End Developer
 
-🌱 Currently learning HTML, CSS, Bootstrap & JavaScript
+🌱 Currently learning Front-End Development
 
-🛠️ Technologies & Skills
+🛠️ Technologies I'm Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
@@ -15,17 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
 </p>📚 Currently
 
-- Learning Front-End Development
-- Practicing HTML, CSS & Bootstrap
-- Starting my JavaScript journey
-- Exploring modern web development technologies
-
-🎯 Future Goals
-
-- Master JavaScript
-- Learn React.js
-- Build real-world web projects
-- Grow as a professional Front-End Developer
+- Learning HTML, CSS, Bootstrap & JavaScript
+- Practicing Front-End Development
+- Improving my programming skills
 
 📫 Connect with me
 
